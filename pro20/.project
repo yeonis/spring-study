@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>pro20</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/cglib-nodep-2.1_3.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/cglib-nodep-2.1_3.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/cglib-nodep-2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/cglib-nodep-2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/com.springsource.javax.validation-1.0.0.GA.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/com.springsource.org.aopalliance-1.0.0.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-beanutils-1.8.3.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-beanutils-1.8.3.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-dbcp-1.4.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-dbcp-1.4.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-dbcp.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-dbcp.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-digester-2.0.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-digester-2.0.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-fileupload-1.2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-io-2.0.1.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-logging-1.1.1.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-logging-1.1.1.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-logging.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-logging.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-pool-1.5.6.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-pool-1.5.6.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/commons-pool.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/commons-pool.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/json_simple-1.1.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/json_simple-1.1.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/jstl.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/jstl.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/log4j-1.2.16.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/log4j-1.2.16.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/mariadb-java-client-2.6.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/mariadb-java-client-2.6.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/mybatis-3.0.5.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/mybatis-3.0.5.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/mybatis-spring-1.0.1.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/mybatis-spring-1.0.1.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/mysql-connector-java-3.0.14-production-bin.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/mysql-connector-java-3.0.14-production-bin.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.aop-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.aop-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.asm-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.asm-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.aspects-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.aspects-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.beans-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.beans-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.context-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.context-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.core-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.core-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.expression-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.expression-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.jdbc-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.jdbc-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.transaction-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.transaction-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.web-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.web-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/org.springframework.web.servlet-3.0.6.RELEASE.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/org.springframework.web.servlet-3.0.6.RELEASE.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/slf4j-api-1.5.8.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/slf4j-api-1.5.8.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/slf4j-jdk14-1.5.8.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/slf4j-jdk14-1.5.8.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/spring.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/spring.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/standard.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/standard.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/tiles-api-2.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/tiles-api-2.2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/tiles-core-2.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/tiles-core-2.2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/tiles-jsp-2.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/tiles-jsp-2.2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/tiles-servlet-2.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/tiles-servlet-2.2.2.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/tiles-template-2.2.2.jar</name>
+			<type>1</type>
+			<location>E:/이상연/spring/웹 스프링 프로젝트_수업/lib_스프링프레임워크/tiles-template-2.2.2.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
